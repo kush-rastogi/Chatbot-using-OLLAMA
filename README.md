@@ -1,6 +1,7 @@
 # 🤖 Ollama Chatbot using LangChain
 # Project Recording:
 https://drive.google.com/file/d/1_fECrLBuO-Idled79VmUqDxoaOXSYYAE/view?usp=drive_link
+
 This project demonstrates how to build a local AI chatbot using Ollama for running Large Language Models (LLMs) and LangChain for managing the conversation flow, memory, and chaining logic.
 
 It’s a minimal, modular chatbot application that runs entirely on your local machine without requiring any external APIs or cloud services.
